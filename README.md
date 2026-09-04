@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vader-72/DSA-prob-sol/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vader-72/DSA-prob-sol/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/vader-72/DSA-prob-sol/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
