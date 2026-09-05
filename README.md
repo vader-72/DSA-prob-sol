@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vader-72/DSA-prob-sol/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/vader-72/DSA-prob-sol/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/vader-72/DSA-prob-sol/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vader-72/DSA-prob-sol/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vader-72/DSA-prob-sol/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/vader-72/DSA-prob-sol/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vader-72/DSA-prob-sol/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vader-72/DSA-prob-sol/tree/master/0242-valid-anagram) |
 ## String
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vader-72/DSA-prob-sol/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/vader-72/DSA-prob-sol/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
