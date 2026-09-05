@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vader-72/DSA-prob-sol/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/vader-72/DSA-prob-sol/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vader-72/DSA-prob-sol/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/vader-72/DSA-prob-sol/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/vader-72/DSA-prob-sol/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vader-72/DSA-prob-sol/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/vader-72/DSA-prob-sol/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
