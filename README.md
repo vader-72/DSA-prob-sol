@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vader-72/DSA-prob-sol/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/vader-72/DSA-prob-sol/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/vader-72/DSA-prob-sol/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vader-72/DSA-prob-sol/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/vader-72/DSA-prob-sol/tree/master/0771-jewels-and-stones) |
 ## Math
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vader-72/DSA-prob-sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/vader-72/DSA-prob-sol/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/vader-72/DSA-prob-sol/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
