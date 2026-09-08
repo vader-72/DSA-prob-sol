@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vader-72/DSA-prob-sol/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/vader-72/DSA-prob-sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/vader-72/DSA-prob-sol/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vader-72/DSA-prob-sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/vader-72/DSA-prob-sol/tree/master/0049-group-anagrams) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vader-72/DSA-prob-sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/vader-72/DSA-prob-sol/tree/master/0053-maximum-subarray) |
 ## Quicksort
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vader-72/DSA-prob-sol/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vader-72/DSA-prob-sol/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
