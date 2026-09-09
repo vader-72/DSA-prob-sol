@@ -3,10 +3,8 @@
  * @return {string[]}
  */
 var fizzBuzz = function(n) {
-  let str = []
-  for(let i = 1 ; i<=n;i++ ){
-    str.push(i.toString())
-  }
+
+  let  str = Array.from({ length: n }, (_, i) => String(i + 1));
   for(let j = 0 ; j<str.length ; j++){
     if(str[j] % 3 ===0 && str[j] % 5 === 0){
         str[j] = 'FizzBuzz'
