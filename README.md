@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/vader-72/DSA-prob-sol/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vader-72/DSA-prob-sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vader-72/DSA-prob-sol/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/vader-72/DSA-prob-sol/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/vader-72/DSA-prob-sol/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/vader-72/DSA-prob-sol/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vader-72/DSA-prob-sol/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/vader-72/DSA-prob-sol/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/vader-72/DSA-prob-sol/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/vader-72/DSA-prob-sol/tree/master/0412-fizz-buzz) |
 ## Two Pointers
@@ -96,4 +98,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/vader-72/DSA-prob-sol/tree/master/0412-fizz-buzz) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vader-72/DSA-prob-sol/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vader-72/DSA-prob-sol/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vader-72/DSA-prob-sol/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vader-72/DSA-prob-sol/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vader-72/DSA-prob-sol/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
