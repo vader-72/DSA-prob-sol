@@ -3,11 +3,11 @@
  * @return {boolean}
  */
 var isPalindrome = function(x) {
-y = x.toString().split('').reverse().join('')
-num = y*1
-if(x ===num){
+   let pal = x.toString().split('').reverse().join('')
+   let num = pal*1
+   if(num === x){
     return true
-}else{
+   }else{
     return false
-}
+   }
 };
