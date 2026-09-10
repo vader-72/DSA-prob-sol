@@ -4,18 +4,15 @@
  * @return {number[]}
  */
 var twoSum = function(nums, target) {
-  for(let i =0 ; i<nums.length ; i++){
-    for(let j =i +1 ; j<nums.length ; j++){
-        if(nums[i] === target - nums[j]){
-            return nums = [ i, j]
-        }
+  let arr = new Map()
+  for(let i = 0 ; i<nums.length ; i++){
+    let diff = target - nums[i]
+    if(arr.has(diff)){
+        return [arr.get(diff), i]
     }
-  }
 
-   
-   
- 
- 
+   arr.set(nums[i],i)
     
-   
+  }
+ 
 };
