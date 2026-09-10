@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vader-72/DSA-prob-sol/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/vader-72/DSA-prob-sol/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/vader-72/DSA-prob-sol/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/vader-72/DSA-prob-sol/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vader-72/DSA-prob-sol/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/vader-72/DSA-prob-sol/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vader-72/DSA-prob-sol/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/vader-72/DSA-prob-sol/tree/master/0347-top-k-frequent-elements) |
 | [0771-jewels-and-stones](https://github.com/vader-72/DSA-prob-sol/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vader-72/DSA-prob-sol/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vader-72/DSA-prob-sol/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vader-72/DSA-prob-sol/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/vader-72/DSA-prob-sol/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vader-72/DSA-prob-sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/vader-72/DSA-prob-sol/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/vader-72/DSA-prob-sol/tree/master/0347-top-k-frequent-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -128,4 +132,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vader-72/DSA-prob-sol/tree/master/0509-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vader-72/DSA-prob-sol/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vader-72/DSA-prob-sol/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vader-72/DSA-prob-sol/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vader-72/DSA-prob-sol/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
