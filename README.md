@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vader-72/DSA-prob-sol/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/vader-72/DSA-prob-sol/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/vader-72/DSA-prob-sol/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/vader-72/DSA-prob-sol/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/vader-72/DSA-prob-sol/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/vader-72/DSA-prob-sol/tree/master/0509-fibonacci-number) |
 ## Two Pointers
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/vader-72/DSA-prob-sol/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/vader-72/DSA-prob-sol/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
