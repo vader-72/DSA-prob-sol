@@ -3,24 +3,22 @@
  * @return {boolean}
  */
 var isValid = function(s) {
-  let result = [];
+  let stack = [];
   let pairs = {
     ')':'(',
-    '}':'{',
-    ']':'['
+    ']':'[',
+    '}':'{'
   }
 
   for(let char of s){
-    if(char === '(' || char === '{' || char === '['){
-        result.push(char)
+    if(char === '(' || char === '[' || char === '{'){
+        stack.push(char)
     }else{
-        if(result.length === 0 || result.pop() !== pairs[char]){
-            return false
+        if(stack.legnth === 0 || stack.pop() !== pairs[char]){
+            return false;
         }
     }
   }
 
-  return result.length === 0;
-  
-  
+  return stack.length === 0
 };
