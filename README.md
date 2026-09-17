@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vader-72/DSA-prob-sol/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/vader-72/DSA-prob-sol/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/vader-72/DSA-prob-sol/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/vader-72/DSA-prob-sol/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vader-72/DSA-prob-sol/tree/master/0242-valid-anagram) |
@@ -184,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/vader-72/DSA-prob-sol/tree/master/0912-sort-an-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vader-72/DSA-prob-sol/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vader-72/DSA-prob-sol/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
