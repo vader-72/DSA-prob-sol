@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vader-72/DSA-prob-sol/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/vader-72/DSA-prob-sol/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/vader-72/DSA-prob-sol/tree/master/0912-sort-an-array) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/vader-72/DSA-prob-sol/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vader-72/DSA-prob-sol/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/vader-72/DSA-prob-sol/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/vader-72/DSA-prob-sol/tree/master/0771-jewels-and-stones) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/vader-72/DSA-prob-sol/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Sorting
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/vader-72/DSA-prob-sol/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/vader-72/DSA-prob-sol/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/vader-72/DSA-prob-sol/tree/master/0509-fibonacci-number) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/vader-72/DSA-prob-sol/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vader-72/DSA-prob-sol/tree/master/0204-count-primes) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/vader-72/DSA-prob-sol/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Primality Test
 |  |
 | ------- |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vader-72/DSA-prob-sol/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/vader-72/DSA-prob-sol/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/vader-72/DSA-prob-sol/tree/master/0383-ransom-note) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/vader-72/DSA-prob-sol/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Quickselect
 |  |
 | ------- |
@@ -193,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vader-72/DSA-prob-sol/tree/master/0020-valid-parentheses) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/vader-72/DSA-prob-sol/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/vader-72/DSA-prob-sol/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
