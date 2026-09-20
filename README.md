@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vader-72/DSA-prob-sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vader-72/DSA-prob-sol/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vader-72/DSA-prob-sol/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/vader-72/DSA-prob-sol/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vader-72/DSA-prob-sol/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vader-72/DSA-prob-sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vader-72/DSA-prob-sol/tree/master/0217-contains-duplicate) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/vader-72/DSA-prob-sol/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vader-72/DSA-prob-sol/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/vader-72/DSA-prob-sol/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vader-72/DSA-prob-sol/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/vader-72/DSA-prob-sol/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/vader-72/DSA-prob-sol/tree/master/0326-power-of-three) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vader-72/DSA-prob-sol/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vader-72/DSA-prob-sol/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vader-72/DSA-prob-sol/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/vader-72/DSA-prob-sol/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/vader-72/DSA-prob-sol/tree/master/0344-reverse-string) |
 ## Trie
 |  |
