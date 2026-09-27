@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vader-72/DSA-prob-sol/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vader-72/DSA-prob-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/vader-72/DSA-prob-sol/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/vader-72/DSA-prob-sol/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/vader-72/DSA-prob-sol/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/vader-72/DSA-prob-sol/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1672-richest-customer-wealth](https://github.com/vader-72/DSA-prob-sol/tree/master/1672-richest-customer-wealth) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vader-72/DSA-prob-sol/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vader-72/DSA-prob-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/vader-72/DSA-prob-sol/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/vader-72/DSA-prob-sol/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/vader-72/DSA-prob-sol/tree/master/0771-jewels-and-stones) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/vader-72/DSA-prob-sol/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Sorting
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vader-72/DSA-prob-sol/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/vader-72/DSA-prob-sol/tree/master/0560-subarray-sum-equals-k) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
