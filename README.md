@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/vader-72/DSA-prob-sol/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/vader-72/DSA-prob-sol/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1672-richest-customer-wealth](https://github.com/vader-72/DSA-prob-sol/tree/master/1672-richest-customer-wealth) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/vader-72/DSA-prob-sol/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vader-72/DSA-prob-sol/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vader-72/DSA-prob-sol/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vader-72/DSA-prob-sol/tree/master/0349-intersection-of-two-arrays) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/vader-72/DSA-prob-sol/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Trie
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/vader-72/DSA-prob-sol/tree/master/0412-fizz-buzz) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/vader-72/DSA-prob-sol/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Enumeration
 |  |
 | ------- |
